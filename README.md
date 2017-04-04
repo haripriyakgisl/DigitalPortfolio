@@ -1,4 +1,4 @@
-# kite
+# KITE - DigitalPortfolio 
 Digital Portfolio is an open source web application which gives easy interaction between students and faculty.
 It is used to understand the student improvement in their academics as well as their extra- curricular activities. 
 It motivates the students to improve themselves in all aspects. 
